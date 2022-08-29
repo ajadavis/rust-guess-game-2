@@ -4,7 +4,7 @@ exploring capabilities in rust........
 
 ### Some Features:
 
-Generate Random Numbers
-Collect User Input
-Match and Loop Statments
+Generate Random Numbers,
+Collect User Input,
+Match and Loop Statments,
 Color Terminal Output
